@@ -7,7 +7,7 @@
 #
 Name     : pypi-flake8_isort
 Version  : 6.1.1
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/e6/35/e6b342f91a05d73e632485a5623ea576a4171acb213cce8f2fe4adbe3295/flake8_isort-6.1.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e6/35/e6b342f91a05d73e632485a5623ea576a4171acb213cce8f2fe4adbe3295/flake8_isort-6.1.1.tar.gz
 Summary  : flake8 plugin that integrates isort
